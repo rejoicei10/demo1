@@ -1,4 +1,4 @@
 streamlit
 BeautifulSoup4
-request
+requests
 lxml
